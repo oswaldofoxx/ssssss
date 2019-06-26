@@ -1,0 +1,567 @@
+Peru
+****************************************************************
+Generales
+
+msgid "Dashboard"	
+msgstr "Tablero"
+
+msgid "List"	
+msgstr "Lista"
+
+msgid "save"	
+msgstr "GUARDAR"
+
+msgid "add"	
+msgstr "AGREGAR"
+
+msgid "Created"	
+msgstr "Creacion"
+
+msgid "Modified"	
+msgstr "Modificacion"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "View"	
+msgstr "Ver"
+
+msgid "Edit"	
+msgstr "Editar"
+
+msgid "Delete"	
+msgstr "Borrar"
+
+msgid "Are you sure you want to delete # {0}?"	
+msgstr "¿Estás seguro de que quieres eliminar # {0}?"
+
+*********************************************************************
+Pie Pagina
+
+msgid "before"	
+msgstr "Antes"
+
+msgid "after"	
+msgstr "Despues"
+
+msgid "previous"	
+msgstr "Anterior"
+
+msgid "next"	
+msgstr "Siguiente"
+
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"	
+msgstr "Pagina {{page}} de {{pages}}, mostrando {{current}} registro(s) de {{count}} total"
+
+***********************************************************************************************
+Pagina Principal
+
+msgid "Home"	
+msgstr "Principal"
+
+msgid "About Us"	
+msgstr "Sobre nosotros"
+
+msgid "Register"	
+msgstr "Registrarse"
+
+msgid "Working time:"	
+msgstr "Tiempo de trabajo:"
+
+msgid "Monday - Friday: 08 AM - 06 PM"	
+msgstr "Lunes - Viernes: 08 AM - 06 PM"
+
+msgid "Find us:"	
+msgstr "Encuentranos en:"
+
+msgid "Alto Selva Alegre J 22, Arequipa City, Peru"	
+msgstr "Alto Selva Alegre J 22, Ciudad de Arequipa, Peru"
+
+msgid "Dedicated to our clients"	
+msgstr "DEDICADO A NUESTROS CLIENTES"
+
+msgid "Vision of the company"	
+msgstr "VISION DE LA EMPRESA"
+
+msgid "Mission of the company"	
+msgstr "MISION DE LA EMPRESA"
+
+msgid "Provide a good automotive maintenance service in general, keeping the cars of our customers in a state of efficient and safe operation, satisfying their needs and expectations in the best possible time. Knowing that you and your vehicle are the most important thing."
+msgstr "Brindar un buen servicio de mantenimiento automotriz en general, Mantener los autos de nuestros clientes en un estado de operación eficiente y seguro. Satisfaciendo sus necesidades y expectativas en el mejor tiempo posible. Saber que usted y su vehículo son lo más importante."
+
+msgid "To become the leading and reliable workshop at the zone level, in the next 3 years, once that objective has been achieved, to remain as the best in the market, offering service for modern cars and diesel units, being recognized for the quality of our services, Honesty and fair prices."	
+msgstr "Para convertirse en el taller líder y confiable a nivel de zona, En los próximos 3 años, una vez alcanzado ese objetivo, permanecer como los mejores en el mercado, ofreciendo servicio para autos modernos y unidades diesel, Ser reconocidos por la calidad de nuestros servicios, honestidad y precios justos."
+
+*******************************************************************************
+Registrarse
+
+msgid "Sign Up"	
+msgstr "Regístrate"
+
+msgid "Sign Up for Free"	
+msgstr "Registrate gratis"
+
+msgid "First Name"	
+msgstr "Primer Nombre"
+
+msgid "Last Name"	
+msgstr "Apellido"
+
+msgid "Email Address"	
+msgstr "Dirección de correo electrónico"
+
+msgid "Set A Password"	
+msgstr "Establecer una contraseña"
+
+msgid "Get Started"	
+msgstr "Empezar"
+
+*************************************************************************************
+Login 
+
+msgid "Log In"	
+msgstr "Iniciar sesión"
+
+msgid "Log in with your account"	
+msgstr "inicia sesion con tu cuenta"
+
+msgid "Disabled login."	
+msgstr "Inicio de sesión desactivado."
+
+msgid "Write your E-mail"	
+msgstr "Escribe tu Correo Electronico"
+
+msgid "Enter your password"	
+msgstr "Ingresa tu Contraseña"
+
+msgid "Retype the CAPTCHA code from the image"	
+msgstr "Vuelva a escribir el código CAPTCHA de la imagen"
+
+msgid "BotDetect CakePHP CAPTCHA Form Validation"	
+msgstr "Validación de la forma de BotDetect CakePHP CAPTCHA"
+
+msgid "Change the CAPTCHA code"	
+msgstr "Cambia el código CAPTCHA"
+
+msgid "Speak the CAPTCHA code"	
+msgstr "Escucha el código CAPTCHA"
+
+msgid "Retype the characters from the picture:"	
+msgstr "Reescriba los caracteres de la imagen:"
+
+msgid "Forgot Password?"	
+msgstr "¿Se te olvidó tu contraseña?"
+
+msgid "LOG IN"	
+msgstr "INICIAR SESION"
+
+msgid "CAPTCHA validation failed, try again."	
+msgstr "CAPTCHA validacion fallida, Inténtalo de nuevo."
+
+msgid "Your username or password is incorrect."	
+msgstr "Su nombre de usuario o contraseña es incorrecta."
+
+msgid "You are not authorized to access that location."	
+msgstr "No estas autorizado para acceder a esta ubicacion."
+
+msgid "You are now logged out."	
+msgstr "Ahora estas desconectado."
+
+msgid "Login"	
+msgstr "Iniciar sesión"
+
+msgid "Logout"	
+msgstr "Cerrar sesión"
+
+msgid "Sign in"	
+msgstr "Registrarse"
+
+msgid "Are you sure?"	
+msgstr "Usted esta seguro"
+
+msgid "The current session will be closed"	
+msgstr "La sesion actual sera cerrada"
+ 
+msgid "Yes, Exit! "	
+msgstr "Si, Salir"
+
+msgid "No, Cancel!"	
+msgstr "No, Cancelar"
+
+msgid "The provided value is invalid"	
+msgstr "El valor proporcionado es inválido"
+
+------------------------------------------------------
+Tabla Usuarios
+
+msgid "Users"	
+msgstr "Usuarios"
+
+msgid "User"	
+msgstr "Usuario"
+
+msgid "User Id"
+msgstr "Codigo de Usuario"
+
+msgid "View Users"	
+msgstr "Ver Usuarios"
+
+msgid "Add User"	
+msgstr "Agregar Usuario"
+
+msgid "Edit User"	
+msgstr "Editar Usuario"
+
+msgid "Yes"	
+msgstr "activo"
+
+msgid "No"	
+msgstr "inactivo"
+
+msgid "Id"	
+msgstr "Codigo"
+
+msgid "Name"	
+msgstr "Nombre"
+
+msgid "Surname"	
+msgstr "Apellidos"
+
+msgid "Address"	
+msgstr "Direccion"
+
+msgid "Phone"	
+msgstr "Telefono"
+
+msgid "Email"	
+msgstr "Correo Electronico"
+
+msgid "Password"	
+msgstr "Contraseña"
+
+msgid "Status"	
+msgstr "Estado"
+
+msgid "The user has been saved."	
+msgstr "El usuario ha sido guardado."
+
+msgid "The user has been deleted."
+msgstr "El usuario ha sido borrado."
+
+msgid "The user could not be saved. Please, try again."
+msgstr "El usuario no se pudo guardar. Inténtalo de nuevo."
+
+msgid "Related Users"	
+msgstr "Usuarios Relacionados"
+
+msgid "no related Users"	
+msgstr "Usuarios no relacionados"
+
+-------------------------------------------------------
+
+Tabla Roles
+
+msgid "Roles"	
+msgstr "Roles"
+
+msgid "Role"	
+msgstr "Rol"
+
+msgid "Role Id"	
+msgstr "Codigo del Rol"
+
+msgid "View Roles"	
+msgstr "Ver Roles"
+
+msgid "Add Roles"	
+msgstr "Agregar Roles"
+
+msgid "Add Role"
+msgstr "Agregar Rol"
+
+msgid "Edit Role"	
+msgstr "Editar Rol"
+
+msgid "The role has been saved."	
+msgstr "El rol ha sido guardado."
+
+msgid "The role has been deleted."
+msgstr "El rol ha sido borrado."
+
+msgid "The role could not be saved. Please, try again."
+msgstr "El rol no se pudo guardar. Inténtalo de nuevo."
+
+-----------------------------------------------------------------------
+
+Tabla Mecanicos
+
+msgid "Mechanics"	
+msgstr "Mecanicos"
+
+msgid "Service"	
+msgstr "Servicio"
+
+msgid "Salary"	
+msgstr "Salario"
+
+msgid "View Mechanics"	
+msgstr "Ver Mecanicos"
+
+msgid "Add Mechanics"	
+msgstr "Agregar Mecanicos"
+
+msgid "Add Mechanic"	
+msgstr "Agregar Mecanico"
+
+msgid "Edit Mechanic"	
+msgstr "Editar Mecanico"
+
+msgid "The mechanic has been saved."	
+msgstr "El mecanico ha sido guardado."
+
+msgid "The mechanic has been deleted."
+msgstr "El mecanico ha sido borrado."
+
+msgid "The mechanic could not be saved. Please, try again."
+msgstr "El mecanico no se pudo guardar. Inténtalo de nuevo."
+
+msgid "Related Mechanics"	
+msgstr "Mecanicos Relacionados"
+
+msgid "no related Mechanics"	
+msgstr "Mecanicos no relacionados"
+
+---------------------------------------------------------------------------------------
+
+Tabla Repuestos
+
+msgid "Replacements"	
+msgstr "Repuestos"
+
+msgid "Replacement"	
+msgstr "Repuesto"
+
+msgid "Replacement Id"	
+msgstr "Codigo de Repuesto"
+
+msgid "Description"	
+msgstr "Descripcion"
+
+msgid "Unit Price"	
+msgstr "Precio Unitario"
+
+msgid "View Replacements"	
+msgstr "Ver Repuestos"
+
+msgid "Add Replacement"	
+msgstr "Agregar Repuesto"
+
+msgid "Add Replacements"	
+msgstr "Agregar Repuestos"
+
+msgid "Edit Replacement"	
+msgstr "Editar Repuesto"
+
+msgid "The replacement has been saved."
+msgstr "El repuesto ha sido guardado."
+
+msgid "The replacement has been deleted."
+msgstr "El repuesto ha sido borrado."
+
+msgid "The replacement could not be saved. Please, try again."
+msgstr "El repuesto no se pudo guardar. Inténtalo de nuevo."
+
+msgid "Related Replacements"	
+msgstr "Repuestos Relacionados"
+
+msgid "no related Replacements"	
+msgstr "Repuestos no relacionados"
+
+---------------------------------------------------------------------
+
+Tabla Categoria
+
+msgid "Category"	
+msgstr "Categoria"
+
+msgid "Category Id"	
+msgstr "Codigo de Categoria"
+
+msgid "View Categories"	
+msgstr "Ver Categorias"
+
+msgid "Add Category"	
+msgstr "Agregar Categoria"
+
+msgid "Add Categories"	
+msgstr "Agregar Categorias"
+
+msgid "Edit Category"	
+msgstr "Editar Categoria"
+
+msgid "The category has been saved."	
+msgstr "La categoria ha sido guardada."
+
+msgid "The category has been deleted."
+msgstr "La categoria ha sido borrada."
+
+msgid "The category could not be saved. Please, try again."
+msgstr "La categoria no se pudo guardar. Inténtalo de nuevo."
+
+---------------------------------------------------------------------------
+
+Tabla Automoviles
+
+msgid "Cars"	
+msgstr "Automoviles"
+
+msgid "View Cars"	
+msgstr "Ver Automoviles"
+
+msgid "Add Car"	
+msgstr "Agregar Automovil"
+
+msgid "Add Cars"	
+msgstr "Agregar Automoviles"
+
+msgid "Edit Car"	
+msgstr "Editar Automovil"
+
+msgid "License"	
+msgstr "Matricula"
+
+msgid "Maker"	
+msgstr "Marca"
+
+msgid "Colour"	
+msgstr "Color"
+
+msgid "The car has been saved."
+msgstr "El automovil ha sido guardado."
+
+msgid "The car has been deleted."
+msgstr "El automovil ha sido borrado."
+
+msgid "The car could not be saved. Please, try again."
+msgstr "El automovil no se pudo guardar. Inténtalo de nuevo."
+
+msgid "Related Cars"	
+msgstr "Automoviles Relacionados"
+
+msgid "no related Cars"	
+msgstr "Automoviles no Relacionados"
+
+----------------------------------------------------------------------------
+
+Tabla Facturas
+
+msgid "Factures"	
+msgstr "Facturas"
+
+msgid "Facture"	
+msgstr "Factura"
+
+msgid "Facture Id"	
+msgstr "Codigo de Factura"
+
+msgid "View Factures"	
+msgstr "Ver Facturas"
+
+msgid "Add Facture"	
+msgstr "Agregar Factura"
+
+msgid "Add Factures"	
+msgstr "Agregar Facturas"
+
+msgid "Edit Facture"	
+msgstr "Editar Factura"
+
+msgid "Amount"	
+msgstr "Cantidad"
+
+msgid "Price Total"	
+msgstr "Precio Total"
+
+msgid "The facture has been saved."	
+msgstr "La factura ha sido guardada."
+
+msgid "The facture has been deleted."
+msgstr "La factura ha sido borrada."
+
+msgid "The facture could not be saved. Please, try again."
+msgstr "La factura no se pudo guardar. Inténtalo de nuevo."
+
+msgid "Related Factures"	
+msgstr "Facturas Relacionadas"
+
+msgid "no related Factures"	
+msgstr "Facturas no Relacionados"
+
+--------------------------------------------------------------------------------------
+
+Tabla Detalles
+
+msgid "Details"	
+msgstr "Detalles"
+
+msgid "View Details"	
+msgstr "Ver Detalles"
+
+msgid "Add Detail"	
+msgstr "Agregar Detalle"
+
+msgid "Add Details"	
+msgstr "Agregar Detalles"
+
+msgid "Edit Detail"	
+msgstr "Editar Detalle"
+
+msgid "The detail has been saved."	
+msgstr "El detalles ha sido guardado."
+
+msgid "The detail has been deleted."	
+msgstr "El detalle ha sido borrado."
+
+msgid "The detail could not be saved. Please, try again."
+msgstr "El detalle no se pudo guardar. Inténtalo de nuevo."
+
+msgid "Related Details"	
+msgstr "Detalles Relacionados"
+
+msgid "no related Details"	
+msgstr "Detalles no Relacionados"
+
+--------------------------------------------------------------------------------------
+
+Tabla Servicios
+
+msgid "Services"	
+msgstr "Servicios"
+
+msgid "Service Id"	
+msgstr "Codigo del Servicio"
+
+msgid "View Services"	
+msgstr "Ver Servicios"
+
+msgid "Add Services"	
+msgstr "Agregar Servicios"
+
+msgid "Add Service"	
+msgstr "Agregar Servicio"
+
+msgid "Edit Service"	
+msgstr "Editar Servicio"
+
+msgid "The service has been saved."	
+msgstr "El servicio ha sido guardado."
+
+msgid "The service has been deleted."	
+msgstr "El servicio ha sido borrado."
+
+msgid "The service could not be saved. Please, try again."
+msgstr "El servicio no se pudo guardar. Inténtalo de nuevo."
+
+
+
+
